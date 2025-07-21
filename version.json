@@ -1,14 +1,7 @@
 {
-  "version": "2.0.7",
-  "releaseDate": "2025-07-21T12:00:00.000Z",
-  "downloadUrl": "https://github.com/Rasamune/VFB-Releases/releases/download/v2.0.7/VFB-Setup-v2.0.7.exe",
-  "fileSize": 0,
-  "changelog": "Initial version for auto-updater system",
-  "minVersion": "2.0.0",
-  "updateRequired": false,
-  "releaseNotes": [
-    "Automatic update system implemented",
-    "GitHub integration for releases",
-    "Improved version management"
-  ]
+  "version": "2.0.8",
+  "releaseDate": "2025-07-21T16:39:02.970Z",
+  "downloadUrl": "https://github.com/Rasamune/VFB-Releases/releases/download/v2.0.8/VFB-Setup-v2.0.8.exe",
+  "fileSize": 170109347,
+  "changelog": "VFB version 2.0.8 - Automatic update"
 }
